@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "print the kernel name"
+echo " the kernel name"
