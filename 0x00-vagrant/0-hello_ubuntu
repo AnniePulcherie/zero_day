@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "The output of 'uname' command without any options is the kernel name."
+echo "print the kernel name"
